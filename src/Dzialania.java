@@ -15,7 +15,7 @@ public class Dzialania {
         double wynik = godziny + srednia;
 
 
-        int WORK_HOURS = 8;
+        final int WORK_HOURS = 8;
         final int WORK_DAYS = 5;
         final int WEEKS = 52;
 
