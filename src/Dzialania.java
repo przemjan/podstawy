@@ -5,15 +5,12 @@ public class Dzialania {
 
         int godziny = 4;
         double srednia =5.9;
-
-
         int temp;
         temp = (int)srednia;
 
         System.out.println(temp);
 
         double wynik = godziny + srednia;
-
 
         final int WORK_HOURS = 8;
         final int WORK_DAYS = 5;
