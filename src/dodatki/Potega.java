@@ -6,7 +6,7 @@ public class Potega {
 
         //a — podstawa, b — wykładnik
         //a do potęgi b
-        c = Math.pow(a, b);
+        c = Math.pow(4, 2);
 
         System.out.println("Liczba (a)"+a+" do potęgi (b)" +b+" równa się " + c);
 

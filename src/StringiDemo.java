@@ -3,7 +3,7 @@ public class StringiDemo {
 
         String name = "Zdzisek";
 
-        char inicjal = name.charAt(5);
+        char inicjal = name.charAt(0);
 
         System.out.println(inicjal);
 

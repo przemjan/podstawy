@@ -7,7 +7,8 @@ public class StringFormatDemo {
         double averageTemp = 19876.77777757;
         String name = "Alojzy";
 
-        String napis =String.format( "wiek: %,-10d, temperatura: %,-10f, stopni, imię: %10s", age, averageTemp, name);
+        String napis = String.format( "wiek: %,-10d, temperatura: %,-10f, stopni, imię: %10s", age, averageTemp, name);
         System.out.println(napis);
+        //15, 18, 19 ,20
     }
 }
